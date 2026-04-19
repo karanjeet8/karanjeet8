@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software developer from India</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">" 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
 
 - 🔭 I’m currently working on [Ai and model add on my portfolio project](https://karanjeet8.github.io/-karanjeet8.github.io/)
 
